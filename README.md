@@ -1,4 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/6kTgNeEK)
+
+Všechny platné materiály jsou ve složce ,,mockup zde''
+
 Mobilní aplikace pro jednoduchou a skoro všem známou hru pravda nebo úkol.
 Jedná se o její grafický návrh, a popis funkce.
 Všechny grafické návrhy budou vytvářeny v programu Figma a ukládány do formátu .fig
