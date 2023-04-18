@@ -15,3 +15,5 @@ U každého hráče se také nachází počet nasbíraných bodů.
 
 Otázka:
 Na této stránce se nachází otázka nebo popis úkolu který hráče čeká. V dolní polovině se nachází tři tlačítka - pro pokračování (hráč splnil), jinou otázku/úkol, nesplnění (hráč nechce úkol splnit)
+
+Součástí repozitáře je i dokument s úkoly a otázkami které je možné použít.
